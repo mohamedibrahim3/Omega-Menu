@@ -1,7 +1,6 @@
 # Restaurant Cashier System
 
 This is a simple cashier system for a restaurant, implemented in Python. It allows the user to enter the items and their corresponding prices, and calculates the total bill amount. The user can also choose to apply a discount to the bill.
-
 ## How to use
 
 1. Clone or download the repository to your local machine.
